@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "dharpa-workflow-widget/extension": true
+  }
+}

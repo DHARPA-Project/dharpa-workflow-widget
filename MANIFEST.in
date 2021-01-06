@@ -1,0 +1,6 @@
+recursive-include dharpa_workflow_widget/static *.*
+include dharpa-workflow-widget.json
+
+include LICENSE
+include setup.py
+include pyproject.toml
